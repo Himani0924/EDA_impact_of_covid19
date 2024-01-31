@@ -28,4 +28,5 @@ There is a huge decline in the traffic volume at all the stations. Even the busi
 MTA should continue to focus their resources on these stations:
 
  
- 
+ ![image](https://github.com/Himani0924/impact_of_covid19/assets/99743248/f8797ceb-7369-4789-8086-8edef9bf80c0)
+
